@@ -9,7 +9,7 @@
 ### What is Twillgers?
 
 Twillgers Development, named after the fictional "Hobson Twillgers" is a two-man
-team of at-home developers creating multipurpose solutions suited to empower
+team of at-home developers creating multipurpose open-source solutions suited to empower
 specific targeted communities on Discord. We primarily focus on building high-end
 moderation solutions and suites of community engagement solutions for server
 owners.
